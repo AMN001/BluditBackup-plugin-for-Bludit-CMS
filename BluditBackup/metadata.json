@@ -1,10 +1,10 @@
 {
-	"author": "Mutlicolor",
+	"author": "Mutlicolor & ONEROM",
 	"email": "",
 	"website": "https://ko-fi.com/multicolorplugins",
-	"version": "1.0",
-	"releaseDate": "2023-12-22",
+	"version": "2.0a",
+	"releaseDate": "2025-07-29",
 	"license": "MIT",
-	"compatible": "3.15.0",
-	"notes": ""
+	"compatible": "3.16.0",
+	"notes": "Have fun :-)"
 }
